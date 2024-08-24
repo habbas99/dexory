@@ -1,0 +1,8426 @@
+[
+{
+    "location": "ZA001A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004338"
+    ],
+    "expectedBarcodes": [
+      "DX9850004338"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA002A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA003A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA004A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004348"
+    ],
+    "expectedBarcodes": [
+      "DX9850004348"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA005A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA006A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA007A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA008A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA009A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA010A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA011A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA012A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA013A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA014A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000498"
+    ],
+    "expectedBarcodes": [
+      "DX9850000498"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA015A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA016A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA017A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000160"
+    ],
+    "expectedBarcodes": [
+      "DX9850000160"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA018A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA019A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000123"
+    ],
+    "expectedBarcodes": [
+      "DX9850000123"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA020A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA021A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA022A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA023A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA024A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA025A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA026A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005448"
+    ],
+    "expectedBarcodes": [
+      "DX9850005448"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA027A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA028A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000623"
+    ],
+    "expectedBarcodes": [
+      "DX9850000623"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA029A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000622"
+    ],
+    "expectedBarcodes": [
+      "DX9850000622"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA030A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA031A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000510"
+    ],
+    "expectedBarcodes": [
+      "DX9850000510"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA032A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA033A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9811261966"
+    ],
+    "expectedBarcodes": [
+      "DX9811261966"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA034A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA035A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA036A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA037A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000624"
+    ],
+    "expectedBarcodes": [
+      "DX9850000624"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZA001B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA002B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA003B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA004B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA005B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA006B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA007B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA008B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA009B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA010B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA011B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA012B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA013B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA014B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA015B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA016B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA017B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA018B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA019B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA020B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA021B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA022B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA023B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA024B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA025B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA026B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA027B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA028B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA029B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA030B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA031B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA032B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA033B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA034B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA035B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA036B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA037B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA001C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA002C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA003C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA004C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA005C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA006C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA007C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA008C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA009C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA010C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA011C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA012C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA013C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA014C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA015C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA016C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA017C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA018C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA019C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA020C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA021C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA022C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA023C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA024C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA025C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA026C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA027C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA028C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA029C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA030C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA031C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA032C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA033C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA034C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA035C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA036C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA037C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA001D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA002D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA003D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA004D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA005D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA006D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA007D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA008D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA009D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA010D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA011D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA012D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA013D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA014D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA015D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA016D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA017D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA018D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA019D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA020D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA021D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA022D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA023D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA024D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA025D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA026D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA027D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA028D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA029D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA030D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA031D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA032D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA033D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA034D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA035D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA036D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA037D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA001E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA002E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA003E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA004E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA005E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA006E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA007E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA008E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA009E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA010E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA011E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA012E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA013E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA014E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA015E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA016E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA017E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA018E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA019E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA020E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA021E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA022E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA023E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA024E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA025E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA026E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA027E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA028E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA029E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA030E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA031E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA032E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA033E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA034E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA035E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA036E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA037E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA001F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA002F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA003F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA004F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA005F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA006F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA007F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA008F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA009F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA010F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA011F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA012F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA013F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA014F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA015F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA016F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA017F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA018F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA019F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA020F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA021F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA022F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA023F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA024F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA025F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA026F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA027F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA028F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA029F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA030F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA031F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA032F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA033F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA034F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA035F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA036F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZA037F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB001A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850005442"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB002A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB003A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB004A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB005A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850000191"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB006A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB007A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850000526"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB008A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB009A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB010A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850005443"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB011A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850002588"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB012A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB013A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB014A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB015A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB016A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB017A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB018A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850004351"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB019A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9860000499"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB020A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB021A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB022A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850004350"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB023A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB024A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB025A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB026A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB027A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB028A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB029A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB030A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB031A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB032A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850002828"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB033A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB034A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB035A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX9850002827"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZB036A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB037A",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB001B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB002B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB003B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB004B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB005B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB006B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB007B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB008B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB009B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB010B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB011B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB012B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB013B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB014B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB015B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB016B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB017B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB018B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB019B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB020B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB021B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB022B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB023B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB024B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB025B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB026B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB027B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB028B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB029B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB030B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB031B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB032B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB033B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB034B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB035B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB036B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB037B",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB001C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB002C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB003C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB004C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB005C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB006C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB007C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB008C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB009C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB010C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB011C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB012C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB013C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB014C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB015C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB016C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB017C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB018C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB019C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB020C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB021C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB022C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB023C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB024C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB025C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB026C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB027C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB028C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB029C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB030C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB031C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB032C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB033C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB034C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB035C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB036C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB037C",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB001D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB002D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB003D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB004D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB005D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB006D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB007D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB008D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB009D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB010D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB011D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB012D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB013D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB014D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB015D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB016D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB017D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB018D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB019D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB020D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB021D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB022D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB023D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB024D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB025D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB026D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB027D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB028D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB029D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB030D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB031D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB032D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB033D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB034D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB035D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB036D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB037D",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB001E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB002E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB003E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB004E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB005E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB006E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB007E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB008E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB009E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB010E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB011E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB012E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB013E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB014E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB015E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB016E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB017E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB018E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB019E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB020E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB021E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB022E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB023E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB024E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB025E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB026E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB027E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB028E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB029E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB030E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB031E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB032E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB033E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB034E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB035E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB036E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB037E",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB001F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB002F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB003F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB004F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB005F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB006F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB007F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB008F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB009F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB010F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB011F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB012F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB013F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB014F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB015F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB016F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB017F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB018F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB019F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB020F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB021F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB022F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB023F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB024F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB025F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB026F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB027F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB028F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB029F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB030F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB031F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB032F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB033F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB034F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB035F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB036F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZB037F",
+    "scanned": false,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC001A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9810081452"
+    ],
+    "expectedBarcodes": [
+      "DX9810081452"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC002A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX981026177"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZC003A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9811265597"
+    ],
+    "expectedBarcodes": [
+      "DX9811265597"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC004A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX981026231"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZC005A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC006A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC007A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003888"
+    ],
+    "expectedBarcodes": [
+      "DX9850003888"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC008A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC009A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC010A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC011A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC012A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC013A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC014A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC015A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC016A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003562"
+    ],
+    "expectedBarcodes": [
+      "DX9850003562"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC017A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003561"
+    ],
+    "expectedBarcodes": [
+      "DX9850003561"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC018A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003560"
+    ],
+    "expectedBarcodes": [
+      "DX9850003560"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC019A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC020A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004310"
+    ],
+    "expectedBarcodes": [
+      "DX9850004310"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC021A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000030"
+    ],
+    "expectedBarcodes": [
+      "DX9850000030"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC022A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC023A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003552"
+    ],
+    "expectedBarcodes": [
+      "DX9850003552"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC024A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004309"
+    ],
+    "expectedBarcodes": [
+      "DX9850004309"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC025A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004731"
+    ],
+    "expectedBarcodes": [
+      "DX9850004731"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC026A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9806152112"
+    ],
+    "expectedBarcodes": [
+      "DX9806152112"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC027A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC028A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC029A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC030A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC031A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC032A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC033A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000522"
+    ],
+    "expectedBarcodes": [
+      "DX9850000522"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC034A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC035A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000636"
+    ],
+    "expectedBarcodes": [
+      "DX9850000636"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC036A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000520"
+    ],
+    "expectedBarcodes": [
+      "DX9850000520"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZC037A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC001B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX985900052481"
+    ],
+    "expectedBarcodes": [],
+    "result": "The location was occupied by an item, but should have been empty"
+  },
+{
+    "location": "ZC002B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC003B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC004B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC005B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC006B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC007B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC008B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC009B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC010B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC011B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC012B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC013B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC014B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC015B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC016B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC017B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC018B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC019B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC020B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC021B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC022B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC023B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC024B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC025B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC026B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC027B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC028B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC029B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC030B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC031B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC032B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC033B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC034B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC035B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC036B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC037B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC001C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX985900052518"
+    ],
+    "expectedBarcodes": [],
+    "result": "The location was occupied by an item, but should have been empty"
+  },
+{
+    "location": "ZC002C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC003C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC004C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC005C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC006C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC007C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC008C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC009C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC010C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC011C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC012C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC013C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC014C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC015C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC016C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC017C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC018C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC019C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC020C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC021C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC022C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC023C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC024C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC025C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC026C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC027C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC028C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC029C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC030C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC031C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC032C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC033C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC034C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC035C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC036C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC037C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC001D",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX985900052555"
+    ],
+    "expectedBarcodes": [],
+    "result": "The location was occupied by an item, but should have been empty"
+  },
+{
+    "location": "ZC002D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC003D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC004D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC005D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC006D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC007D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC008D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC009D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC010D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC011D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC012D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC013D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC014D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC015D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC016D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC017D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC018D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC019D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC020D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC021D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC022D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC023D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC024D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC025D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC026D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC027D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC028D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC029D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC030D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC031D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC032D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC033D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC034D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC035D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC036D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC037D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC001E",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX985900052592"
+    ],
+    "expectedBarcodes": [],
+    "result": "The location was occupied by an item, but should have been empty"
+  },
+{
+    "location": "ZC002E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC003E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC004E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC005E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC006E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC007E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC008E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC009E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC010E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC011E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC012E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC013E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC014E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC015E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC016E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC017E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC018E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC019E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC020E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC021E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC022E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC023E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC024E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC025E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC026E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC027E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC028E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC029E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC030E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC031E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC032E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC033E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC034E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC035E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC036E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC037E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC001F",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX985900052629"
+    ],
+    "expectedBarcodes": [],
+    "result": "The location was occupied by an item, but should have been empty"
+  },
+{
+    "location": "ZC002F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC003F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC004F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC005F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC006F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC007F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC008F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC009F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC010F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC011F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC012F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC013F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC014F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC015F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC016F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC017F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC018F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC019F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC020F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC021F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC022F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC023F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC024F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC025F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC026F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC027F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC028F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC029F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC030F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC031F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC032F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC033F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC034F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC035F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC036F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZC037F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD001A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX980907826"
+    ],
+    "expectedBarcodes": [
+      "DX980907826"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD002A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD003A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX980907827"
+    ],
+    "expectedBarcodes": [
+      "DX980907827"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD004A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD005A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004340"
+    ],
+    "expectedBarcodes": [
+      "DX9850004340"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD006A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX980907829"
+    ],
+    "expectedBarcodes": [
+      "DX980907829"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD007A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX980907828"
+    ],
+    "expectedBarcodes": [
+      "DX980907828"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD008A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX981026218"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZD009A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX981026233"
+    ],
+    "expectedBarcodes": [
+      "DX981026233"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD010A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX981026232"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZD011A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004732"
+    ],
+    "expectedBarcodes": [
+      "DX9850004732"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD012A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004330"
+    ],
+    "expectedBarcodes": [
+      "DX9850004330"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD013A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD014A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850002591"
+    ],
+    "expectedBarcodes": [
+      "DX9850002591"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD015A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD016A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD017A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD018A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD019A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004293"
+    ],
+    "expectedBarcodes": [
+      "DX9850004293"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD020A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850001304"
+    ],
+    "expectedBarcodes": [
+      "DX9850001304"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD021A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9810081330"
+    ],
+    "expectedBarcodes": [
+      "DX9810081330"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD022A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000197"
+    ],
+    "expectedBarcodes": [
+      "DX9850000197"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD023A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000196"
+    ],
+    "expectedBarcodes": [
+      "DX9850000196"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD024A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000194"
+    ],
+    "expectedBarcodes": [
+      "DX9850000194"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD025A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850001305"
+    ],
+    "expectedBarcodes": [
+      "DX9850001305"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD026A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD027A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD028A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD029A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX981026161"
+    ],
+    "expectedBarcodes": [
+      "DX981026161"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD030A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [
+      "DX981026212"
+    ],
+    "result": "The location was empty, but it should have been occupied"
+  },
+{
+    "location": "ZD031A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000516"
+    ],
+    "expectedBarcodes": [
+      "DX9850000516"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD032A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000517"
+    ],
+    "expectedBarcodes": [
+      "DX9850000517"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD033A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9811151380"
+    ],
+    "expectedBarcodes": [
+      "DX9811151380"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD034A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD035A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000518"
+    ],
+    "expectedBarcodes": [
+      "DX9850000518"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD036A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850000519"
+    ],
+    "expectedBarcodes": [
+      "DX9850000519"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD037A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD001B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004285"
+    ],
+    "expectedBarcodes": [
+      "DX9850004285"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD002B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004286"
+    ],
+    "expectedBarcodes": [
+      "DX9850004286"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD003B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004287"
+    ],
+    "expectedBarcodes": [
+      "DX9850004287"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD004B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004288"
+    ],
+    "expectedBarcodes": [
+      "DX9850004288"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD005B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004289"
+    ],
+    "expectedBarcodes": [
+      "DX9850004289"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD006B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004290"
+    ],
+    "expectedBarcodes": [
+      "DX9850004290"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD007B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004291"
+    ],
+    "expectedBarcodes": [
+      "DX9850004291"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD008B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD009B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD010B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004294"
+    ],
+    "expectedBarcodes": [
+      "DX9850004294"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD011B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004295"
+    ],
+    "expectedBarcodes": [
+      "DX9850004295"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD012B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004297"
+    ],
+    "expectedBarcodes": [
+      "DX9850004297"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD013B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004298"
+    ],
+    "expectedBarcodes": [
+      "DX9850004298"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD014B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004299"
+    ],
+    "expectedBarcodes": [
+      "DX9850004299"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZD015B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD016B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD017B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD018B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD019B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD020B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD021B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD022B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD023B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD024B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD025B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD026B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD027B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD028B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD029B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD030B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD031B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD032B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD033B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD034B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD035B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD036B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD037B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD001C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD002C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD003C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD004C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD005C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD006C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD007C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD008C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD009C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD010C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD011C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD012C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD013C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD014C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD015C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD016C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD017C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD018C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD019C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD020C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD021C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD022C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD023C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD024C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD025C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD026C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD027C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD028C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD029C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD030C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD031C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD032C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD033C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD034C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD035C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD036C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD037C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD001D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD002D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD003D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD004D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD005D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD006D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD007D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD008D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD009D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD010D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD011D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD012D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD013D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD014D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD015D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD016D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD017D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD018D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD019D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD020D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD021D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD022D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD023D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD024D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD025D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD026D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD027D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD028D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD029D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD030D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD031D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD032D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD033D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD034D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD035D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD036D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD037D",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD001E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD002E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD003E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD004E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD005E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD006E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD007E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD008E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD009E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD010E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD011E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD012E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD013E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD014E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD015E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD016E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD017E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD018E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD019E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD020E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD021E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD022E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD023E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD024E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD025E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD026E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD027E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD028E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD029E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD030E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD031E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD032E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD033E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD034E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD035E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD036E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD037E",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD001F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD002F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD003F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD004F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD005F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD006F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD007F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD008F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD009F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD010F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD011F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD012F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD013F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD014F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD015F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD016F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD017F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD018F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD019F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD020F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD021F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD022F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD023F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD024F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD025F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD026F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD027F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD028F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD029F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD030F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD031F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD032F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD033F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD034F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD035F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD036F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZD037F",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE001A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE002A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE003A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE004A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE005A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE006A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE007A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE008A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE009A",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was occupied, but no barcode could be identified"
+  },
+{
+    "location": "ZE010A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE011A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE012A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE013A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE014A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE015A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE016A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE017A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE018A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE019A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE020A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE021A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE022A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE023A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE024A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE025A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE026A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE027A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE028A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE029A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE030A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE031A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE032A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE033A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE034A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE035A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE036A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE037A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE038A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE039A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE040A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE041A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE042A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE043A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE044A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE045A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE046A",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE001B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE002B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003427"
+    ],
+    "expectedBarcodes": [
+      "DX9850003427"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE003B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003437"
+    ],
+    "expectedBarcodes": [
+      "DX9850003437"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE004B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003406"
+    ],
+    "expectedBarcodes": [
+      "DX9850003406"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE005B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003418"
+    ],
+    "expectedBarcodes": [
+      "DX9850003418"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE006B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE007B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE008B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005065"
+    ],
+    "expectedBarcodes": [
+      "DX9850005065"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE009B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE010B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005066"
+    ],
+    "expectedBarcodes": [
+      "DX9850005066"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE011B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE012B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005067"
+    ],
+    "expectedBarcodes": [
+      "DX9850005067"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE013B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE014B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005077"
+    ],
+    "expectedBarcodes": [
+      "DX9850005077"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE015B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE016B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005070"
+    ],
+    "expectedBarcodes": [
+      "DX9850005070"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE017B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005078"
+    ],
+    "expectedBarcodes": [
+      "DX9850005078"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE018B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005072"
+    ],
+    "expectedBarcodes": [
+      "DX9850005072"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE019B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005083"
+    ],
+    "expectedBarcodes": [
+      "DX9850005083"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE020B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE021B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003429"
+    ],
+    "expectedBarcodes": [
+      "DX9850003429"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE022B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003421"
+    ],
+    "expectedBarcodes": [
+      "DX9850003421"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE023B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003425"
+    ],
+    "expectedBarcodes": [
+      "DX9850003425"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE024B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003413"
+    ],
+    "expectedBarcodes": [
+      "DX9850003413"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE025B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE026B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003438"
+    ],
+    "expectedBarcodes": [
+      "DX9850003438"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE027B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003394"
+    ],
+    "expectedBarcodes": [
+      "DX9850003394"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE028B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003424"
+    ],
+    "expectedBarcodes": [
+      "DX9850003424"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE029B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003416"
+    ],
+    "expectedBarcodes": [
+      "DX9850003416"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE030B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003423"
+    ],
+    "expectedBarcodes": [
+      "DX9850003423"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE031B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003393"
+    ],
+    "expectedBarcodes": [
+      "DX9850003393"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE032B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003395"
+    ],
+    "expectedBarcodes": [
+      "DX9850003395"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE033B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003537"
+    ],
+    "expectedBarcodes": [
+      "DX9850003537"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE034B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003538"
+    ],
+    "expectedBarcodes": [
+      "DX9850003538"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE035B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003539"
+    ],
+    "expectedBarcodes": [
+      "DX9850003539"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE036B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE037B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE038B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE039B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE040B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE041B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE042B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE043B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850001184"
+    ],
+    "expectedBarcodes": [
+      "DX9850001184"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE044B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850004965"
+    ],
+    "expectedBarcodes": [
+      "DX9850004965"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE045B",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850001185"
+    ],
+    "expectedBarcodes": [
+      "DX9850001185"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE046B",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE001C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850003426"
+    ],
+    "expectedBarcodes": [
+      "DX9850003426"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE002C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE003C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE004C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE005C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE006C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE007C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE008C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005080"
+    ],
+    "expectedBarcodes": [
+      "DX9850005080"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE009C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE010C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005075"
+    ],
+    "expectedBarcodes": [
+      "DX9850005075"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE011C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE012C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005076"
+    ],
+    "expectedBarcodes": [
+      "DX9850005076"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE013C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE014C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005068"
+    ],
+    "expectedBarcodes": [
+      "DX9850005068"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE015C",
+    "scanned": true,
+    "occupied": false,
+    "actualBarcodes": [],
+    "expectedBarcodes": [],
+    "result": "The location was empty, as expected"
+  },
+{
+    "location": "ZE016C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005069"
+    ],
+    "expectedBarcodes": [
+      "DX9850005069"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE017C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005071"
+    ],
+    "expectedBarcodes": [
+      "DX9850005071"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE018C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005073"
+    ],
+    "expectedBarcodes": [
+      "DX9850005073"
+    ],
+    "result": "The location was occupied by the expected items"
+  },
+{
+    "location": "ZE019C",
+    "scanned": true,
+    "occupied": true,
+    "actualBarcodes": [
+      "DX9850005074"
+    ],
+    "expectedBarcodes": [
+      "DX9850005074"
+    ],
+    "result": "The location was occupied by the expected items"
+  }
+]

@@ -41,7 +41,6 @@ The output should provide a result for comparing each location, and consist of:
 ## Setup
 
 ### Pre-requisites
-
 *Note*: Make sure that you are in the root folder.
 
 Start postgres in docker: `docker-compose up -d`
@@ -76,7 +75,6 @@ npm start
 ```
 
 ### Application usage
-
 Make sure to change `REPLACE_ME` in `curl` command with path to sample JSON file with scans.
 
 API to upload scans from robot:
@@ -87,6 +85,8 @@ curl -X POST http://localhost:8080/upload-bulk-scan-file -F "file=@{REPLACE_ME}/
 Access frontend application: http://localhost:3000
 
 To generate comparison report, navigate to frontend. Once report is generated there is an option to export the report in JSON format.
+
+Sample exported report can be found under this path: `/sample/report.json`
 
 ## Assumptions
 - multiple barcodes could be received from robot for a given location
