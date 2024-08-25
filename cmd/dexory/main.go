@@ -51,6 +51,7 @@ func main() {
 	if err != nil {
 		log.Fatalf("failed making database connection, error: %v", err)
 	}
+	defer database.Close()
 
 	// run database migrations
 	err = database.Migrate()

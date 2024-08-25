@@ -45,7 +45,7 @@ func NewComparisonDataService(scanClient scanClient, comparisonDataClient compar
 
 func (rg *ComparisonDataService) GenerateComparisonDataForReport(reportRecord *models.ReportRecord) {
 	log.WithFields(log.Fields{
-		"report_record_id":    reportRecord,
+		"report_record_id":    reportRecord.ID,
 		"reference_file_name": reportRecord.ReferenceFileName,
 		"reference_file_path": reportRecord.ReferenceFilePath,
 	}).Info("starting process to create comparison data for report record")
@@ -91,7 +91,7 @@ func (rg *ComparisonDataService) GenerateComparisonDataForReport(reportRecord *m
 	rg.updateReportRecord(reportRecord, models.Completed)
 
 	log.WithFields(log.Fields{
-		"report_record_id":    reportRecord,
+		"report_record_id":    reportRecord.ID,
 		"reference_file_name": reportRecord.ReferenceFileName,
 		"reference_file_path": reportRecord.ReferenceFilePath,
 	}).Info("finished process to create comparison data for report record")
