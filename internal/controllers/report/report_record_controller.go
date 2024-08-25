@@ -114,11 +114,6 @@ func (rr *ReportRecordController) CreateReportRecord(c *gin.Context) {
 		return
 	}
 
-	log.WithFields(log.Fields{
-		"bulk_scan_file_name": bulkScanFileName,
-		"uploaded_file_name":  fileHeader,
-	}).Info("received request to generate comparison report")
-
 	receivedFile, err := fileHeader.Open()
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "failed to open the csv file"})
@@ -144,6 +139,12 @@ func (rr *ReportRecordController) CreateReportRecord(c *gin.Context) {
 	}
 
 	reportRecord, err := rr.reportRecordClient.Create(*bulkScanRecord, savedFile.Name())
+
+	log.WithFields(log.Fields{
+		"report_record_id":    reportRecord.ID,
+		"bulk_scan_file_name": bulkScanFileName,
+		"uploaded_file_name":  fileHeader.Filename,
+	}).Info("trigger generate comparison data for report")
 
 	// start a go routine to generate comparison report data
 	go rr.comparisonDataServiceClient.GenerateComparisonDataForReport(reportRecord)

@@ -43,7 +43,7 @@ func (s *ScanService) ProcessFile(bulkScanRecord *models.BulkScanRecord) {
 		"bulk_scan_record_id": bulkScanRecord.ID,
 		"file_name":           bulkScanRecord.FileName,
 		"file_path":           bulkScanRecord.FilePath,
-	}).Info("starting process to process bulk scan file")
+	}).Info("starting to process bulk scan file")
 
 	s.updateBulkScanRecord(bulkScanRecord, models.Processing)
 
@@ -113,14 +113,13 @@ func (s *ScanService) ProcessFile(bulkScanRecord *models.BulkScanRecord) {
 		return
 	}
 
-	log.Printf("Finished batch process of scan file: %s", filePath)
 	s.updateBulkScanRecord(bulkScanRecord, models.Completed)
 
 	log.WithFields(log.Fields{
 		"bulk_scan_record_id": bulkScanRecord.ID,
 		"file_name":           bulkScanRecord.FileName,
 		"file_path":           bulkScanRecord.FilePath,
-	}).Info("starting process to process bulk scan file")
+	}).Info("finished processing of bulk scan file")
 }
 
 func (s *ScanService) updateBulkScanRecordWithStatusFailed(bulkScanRecord *models.BulkScanRecord, message string, err error) {
