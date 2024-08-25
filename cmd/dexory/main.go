@@ -52,7 +52,7 @@ func main() {
 		log.Fatalf("failed making database connection, error: %v", err)
 	}
 
-	// Run the migrations
+	// run database migrations
 	err = database.Migrate()
 	if err != nil {
 		log.Fatalf("failed running database migration, error: %v", err)
@@ -93,20 +93,20 @@ func main() {
 		"./exported-reports", fileStorageService, exportReportRecordRepository, exportReportService,
 	)
 
-	// Setup Gin router
+	// setup Gin router
 	router := gin.Default()
 
-	// Check if we are in production mode
+	// check if we are in production mode
 	env := os.Getenv("ENVIRONMENT")
 	if env == "production" {
-		// Serve static files in production
+		// serve static files in production
 		router.Static("/static", "./frontend/build/static")
 		router.StaticFile("/", "./frontend/build/index.html")
 		router.NoRoute(func(c *gin.Context) {
 			c.File("./frontend/build/index.html")
 		})
 	} else {
-		// In development, redirect root to the React development server
+		// for development, redirect root to the React development server
 		router.GET("/", func(c *gin.Context) {
 			c.Redirect(307, "http://localhost:3000/")
 		})

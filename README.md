@@ -43,12 +43,24 @@ The output should provide a result for comparing each location, and consist of:
 ### Pre-requisites
 *Note*: Make sure that you are in the root folder.
 
-Start postgres in docker: `docker-compose up -d`
+GoLang version: `go1.23.0 linux/amd64`
 
-Stop postgres in docker: `docker-compose down`
+NodeJS version: `v18.15.0`
+
+Start postgres in docker: 
+```
+docker-compose up -d
+```
+
+Stop postgres in docker:
+```
+docker-compose down
+```
 
 ### Testing
-Generate mocks:
+Note: mocks are commited in `generated` folder
+
+Sample command to generate mocks:
 ```
 mockgen -source=internal/services/export/export_report_service.go -destination=generated/services/export/mock_export_report_service_interfaces.go -package=mockexportreportservice
 ```
@@ -61,10 +73,6 @@ go test -v ./...
 ### Backend server
 ```
 go run cmd/dexory/main.go
-```
-OR
-```
-go build -o "./build/dexory" -v "./cmd/dexory" && build/dexory
 ```
 
 ### Frontend application
@@ -82,20 +90,39 @@ API to upload scans from robot:
 curl -X POST http://localhost:8080/upload-bulk-scan-file -F "file=@{REPLACE_ME}/example-customer.json"
 ```
 
-Access frontend application: http://localhost:3000
+Access development frontend application: http://localhost:3000
 
 To generate comparison report, navigate to frontend. Once report is generated there is an option to export the report in JSON format.
 
 Sample exported report can be found under this path: `/sample/report.json`
 
+### Production build and usage
+Update environment variable `ENVIRONMENT` to `production` in `.env` file
+
+Build application:
+```
+go build -o "./build/dexory" -v "./cmd/dexory"
+```
+
+Run application:
+```
+build/dexory
+```
+
+Note: frontend is packaged with the backend server
+
+Access frontend: http://localhost:8080
+
 ## Assumptions
 - multiple barcodes could be received from robot for a given location
 - report contains expected and actual barcodes as an array even though CSV only has a single barcode in each row
-- allow robot to send duplicate scans JSON file
-- allow user to upload same CSV file to generate report against same robot scans file
+- allow robot to send duplicate scans `JSON` file
+- allow user to upload same `CSV` file to generate report against same robot scans file
 
 ## Future considerations
 - protect upload bulk scans file API from duplicate file content by storing hash
 - generate report API from generating comparison data that has already been generated (store hash of CSV file)
-- add test coverage including unit and integration tests
-- use custom errors where needed
+- add more test coverage including unit and integration tests for frontend/backend
+- support pagination and filtering on report detail view
+- support report summary generation on backend as opposed to frontend
+- use custom errors application generated errors
